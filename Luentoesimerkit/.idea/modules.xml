@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Luentoesimerkit.iml" filepath="$PROJECT_DIR$/Luentoesimerkit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Luento02/Varausjarjestelma/Varausjarjestelma.iml" filepath="$PROJECT_DIR$/Luento02/Varausjarjestelma/Varausjarjestelma.iml" />
+    </modules>
+  </component>
+</project>
