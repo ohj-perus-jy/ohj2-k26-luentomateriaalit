@@ -16,7 +16,8 @@ public class Korttimaksu extends Maksutapa implements Hyvitettava {
     @Override
     protected MaksuTulos suoritaMaksu(MaksuPyynto pyynto) {
         katevarausSentteina = pyynto.summaSentteina();
-        //return MaksuTulos.onnistui("CARD-" + pyynto.viite());
+        // Tehdasmetodia käyttäen:
+        // return MaksuTulos.onnistui("CARD-" + pyynto.viite());
         return new MaksuTulos(true, null, "CARD-"+ pyynto.viite());
     }
 
