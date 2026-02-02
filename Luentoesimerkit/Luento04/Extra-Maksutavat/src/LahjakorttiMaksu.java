@@ -14,6 +14,7 @@ public class LahjakorttiMaksu extends Maksutapa {
     @Override
     protected MaksuTulos suoritaMaksu(MaksuPyynto pyynto) {
         if (saldoSentteina < pyynto.summaSentteina()) {
+            // Jos haluttaisiin käyttää tehdasmetodia:
             // return MaksuTulos.epaonnistui("Saldo ei riitä");
             return new MaksuTulos(false, "Saldo ei riitä", null);
         }

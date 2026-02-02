@@ -4,9 +4,6 @@
  *
  * Tämä on rajapinta, koska hyvitys ei ole kaikkien maksutapojen
  * perusominaisuus, vaan lisäkyvykkyys.
- *
- * Rajapinta antaa yhteisen "kielen" sille osajoukolle maksutapoja,
- * jotka tukevat hyvitystä.
  */
 public interface Hyvitettava {
 
