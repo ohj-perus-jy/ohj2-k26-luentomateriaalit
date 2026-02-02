@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Luento04/1-Rajapinta/1-Rajapinta.iml" filepath="$PROJECT_DIR$/Luento04/1-Rajapinta/1-Rajapinta.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Luento04/2-Geneerinen-metodi/2-Geneerinen-metodi.iml" filepath="$PROJECT_DIR$/Luento04/2-Geneerinen-metodi/2-Geneerinen-metodi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Luento04/3-Geneerinen-luokka/3-Geneerinen-luokka.iml" filepath="$PROJECT_DIR$/Luento04/3-Geneerinen-luokka/3-Geneerinen-luokka.iml" />
       <module fileurl="file://$PROJECT_DIR$/Luento03/Elaimet/Elaimet.iml" filepath="$PROJECT_DIR$/Luento03/Elaimet/Elaimet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Luento04/Extra-Maksutavat/Extra-Maksutavat.iml" filepath="$PROJECT_DIR$/Luento04/Extra-Maksutavat/Extra-Maksutavat.iml" />
       <module fileurl="file://$PROJECT_DIR$/Luentoesimerkit.iml" filepath="$PROJECT_DIR$/Luentoesimerkit.iml" />
       <module fileurl="file://$PROJECT_DIR$/Luento02/Varausjarjestelma/Varausjarjestelma.iml" filepath="$PROJECT_DIR$/Luento02/Varausjarjestelma/Varausjarjestelma.iml" />
     </modules>
