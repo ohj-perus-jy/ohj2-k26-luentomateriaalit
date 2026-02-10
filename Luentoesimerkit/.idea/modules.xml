@@ -2,9 +2,15 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Luento05/1-Kokoelmat/1-Kokoelmat.iml" filepath="$PROJECT_DIR$/Luento05/1-Kokoelmat/1-Kokoelmat.iml" />
       <module fileurl="file://$PROJECT_DIR$/Luento04/1-Rajapinta/1-Rajapinta.iml" filepath="$PROJECT_DIR$/Luento04/1-Rajapinta/1-Rajapinta.iml" />
       <module fileurl="file://$PROJECT_DIR$/Luento04/2-Geneerinen-metodi/2-Geneerinen-metodi.iml" filepath="$PROJECT_DIR$/Luento04/2-Geneerinen-metodi/2-Geneerinen-metodi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Luento05/2-Lista/2-Lista.iml" filepath="$PROJECT_DIR$/Luento05/2-Lista/2-Lista.iml" />
       <module fileurl="file://$PROJECT_DIR$/Luento04/3-Geneerinen-luokka/3-Geneerinen-luokka.iml" filepath="$PROJECT_DIR$/Luento04/3-Geneerinen-luokka/3-Geneerinen-luokka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Luento05/3-Hakurakenne/3-Hakurakenne.iml" filepath="$PROJECT_DIR$/Luento05/3-Hakurakenne/3-Hakurakenne.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Luento05/4-Joukot/4-Joukot.iml" filepath="$PROJECT_DIR$/Luento05/4-Joukot/4-Joukot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Luento05/5-Jonot/5-Jonot.iml" filepath="$PROJECT_DIR$/Luento05/5-Jonot/5-Jonot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Luento05/6-Rekursio/6-Rekursio.iml" filepath="$PROJECT_DIR$/Luento05/6-Rekursio/6-Rekursio.iml" />
       <module fileurl="file://$PROJECT_DIR$/Luento03/Elaimet/Elaimet.iml" filepath="$PROJECT_DIR$/Luento03/Elaimet/Elaimet.iml" />
       <module fileurl="file://$PROJECT_DIR$/Luento04/Extra-Maksutavat/Extra-Maksutavat.iml" filepath="$PROJECT_DIR$/Luento04/Extra-Maksutavat/Extra-Maksutavat.iml" />
       <module fileurl="file://$PROJECT_DIR$/Luentoesimerkit.iml" filepath="$PROJECT_DIR$/Luentoesimerkit.iml" />
